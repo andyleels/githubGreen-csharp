@@ -1,0 +1,10 @@
+C:\Users\liaozixu\source\repos\githubGreen\githubGreen\bin\Debug\githubGreen.exe.config
+C:\Users\liaozixu\source\repos\githubGreen\githubGreen\bin\Debug\githubGreen.exe
+C:\Users\liaozixu\source\repos\githubGreen\githubGreen\bin\Debug\githubGreen.pdb
+C:\Users\liaozixu\source\repos\githubGreen\githubGreen\obj\Debug\githubGreen.csprojAssemblyReference.cache
+C:\Users\liaozixu\source\repos\githubGreen\githubGreen\obj\Debug\githubGreen.Properties.Resources.resources
+C:\Users\liaozixu\source\repos\githubGreen\githubGreen\obj\Debug\githubGreen.csproj.GenerateResource.cache
+C:\Users\liaozixu\source\repos\githubGreen\githubGreen\obj\Debug\githubGreen.csproj.CoreCompileInputs.cache
+C:\Users\liaozixu\source\repos\githubGreen\githubGreen\obj\Debug\githubGreen.exe
+C:\Users\liaozixu\source\repos\githubGreen\githubGreen\obj\Debug\githubGreen.pdb
+C:\Users\liaozixu\source\repos\githubGreen\githubGreen\obj\Debug\com.liaozixu.githubGreen.from.main.resources
