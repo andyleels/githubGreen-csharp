@@ -226,12 +226,15 @@ namespace com.liaozixu.githubGreen.from
                 }
                 else
                 {
-                    int rd = new Random().Next(1, 20);
-                    for (int a = 0; a < sub; a++)
+                    int rd = new Random().Next(-5, 15);
+                    if (rd > 0)
                     {
-                        if (!changeFileAndCommit(gitPath, tempPath, tempFileUrl, startTime.ToShortDateString() + a))
+                        for (int a = 0; a < rd; a++)
                         {
-                            return false;
+                            if (!changeFileAndCommit(gitPath, tempPath, tempFileUrl, startTime.ToShortDateString() + "-" + a))
+                            {
+                                return false;
+                            }
                         }
                     }
                 }
