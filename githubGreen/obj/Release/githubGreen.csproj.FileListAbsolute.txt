@@ -7,3 +7,4 @@ C:\Users\liaozixu\source\repos\githubGreen\githubGreen\obj\Release\githubGreen.c
 C:\Users\liaozixu\source\repos\githubGreen\githubGreen\obj\Release\githubGreen.csproj.CoreCompileInputs.cache
 C:\Users\liaozixu\source\repos\githubGreen\githubGreen\obj\Release\githubGreen.exe
 C:\Users\liaozixu\source\repos\githubGreen\githubGreen\obj\Release\githubGreen.pdb
+C:\Users\liaozixu\source\repos\githubGreen\githubGreen\obj\Release\githubGreen.csprojAssemblyReference.cache
